@@ -1,0 +1,6 @@
+GET http://localhost:4000/app/C0P2FH2wn
+Content-Type: application/json
+
+{
+    "urlId": "C0P2FH2wn"
+}
